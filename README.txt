@@ -10,20 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 The Shipping Info is a WordPress plugin powered by WooCommerce. To display shipping information comprehensively.  
 
-== Description ==
-
-
-== A brief Markdown Example ==
-
-Ordered list:
-
 1. Create shortcode
 2. Set shipping method logo
 3. Set shipping price 
 4. Set shipping details
-
-Unordered list:
-
-* something
-* something else
-* third thing
